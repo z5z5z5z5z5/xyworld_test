@@ -1,3 +1,21 @@
+## [0.2.13-alpha](https://gitlab.pixelheroes.io/web3/xcoin/compare/v0.2.17-alpha.0...v0.2.13-alpha) (2025-12-29)
+
+
+### Bug Fixes
+
+* improve dialog positioning and display issues ([a53494f](https://gitlab.pixelheroes.io/web3/xcoin/commit/a53494f13fa801978fe5f7e3b6a3ddd8c11ee640))
+* **inventory:** fix miner image display index error ([f994f05](https://gitlab.pixelheroes.io/web3/xcoin/commit/f994f05ebc9aa0cac2fbddb3ae585385aaa2765a))
+
+
+### Features
+
+* **decoration:** improve decoration components and hooks ([ca3d28a](https://gitlab.pixelheroes.io/web3/xcoin/commit/ca3d28abd1c1324a80c5169f83cdff75555f33a0))
+* **miner:** add miner grid v2 and improve miner UI components ([4f88c3d](https://gitlab.pixelheroes.io/web3/xcoin/commit/4f88c3d57ba42c4487401e6eacfe9231fdc968c6))
+* **miner:** unify miner names, improve animations, and add random room navigation ([3065d69](https://gitlab.pixelheroes.io/web3/xcoin/commit/3065d695abda25d68054644aa926203c9561a38b))
+* **settings:** add version and privacy policy to settings view ([7fa674a](https://gitlab.pixelheroes.io/web3/xcoin/commit/7fa674acf483243091e854f1889d258dafc49af5))
+
+
+
 ## 0.2.13-alpha (2025-12-24)
 
 

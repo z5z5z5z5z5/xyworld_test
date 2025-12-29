@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Xyworld",
   "description": "Xyworld: A peer-to-peer social mining game.",
-  "version": "0.2.17",
+  "version": "0.2.18",
   "icons": {
     "16": "icon16.png",
     "32": "icon32.png",
@@ -48,7 +48,7 @@
     }
   ],
   "key": "MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCknsXZID/wJArZ1fEWj1hEY88gT+L7+ZBQrNReQwxwPqGzUeVZ8sjQhx7hNE//QFhLQKysT5CyHtkR+9pbrIR6kCyOmRzcQvxU7JjHJZMo5n6TN5Krq6Sco+ubl3sO5F3Hxnx5MZ6xgSzw95VUZHDgOVPSIfvHfwyCgLZvEcyPAY8iOEhj3N75P5HG4t4v/034hm4TjPowaVfB/7rM7ssjt0LetQMyPuF4g5js65lMfU6+ULUrUHKP1ZEqlVqYq5Bl4vZk5z+yrwLvRabVl/vNiv4BFEe/1pV31x9ZHrznXGF1+SCx72jPt5/Ic3SzQud+H6qgrlDyMClWZO8Zl1Z7AgMBAAECggEAaNPmPzaHIJ+C/WZ8SJZtadd4/SWB8FziZk04SvI9SHjJtYvwFdBBynBQ3K3YRz2tO/ZqPqvIA3UbW5VaXkhEcFvA0+lydFx/nICxZRdrV383mP2pe4Iop8rGbOUQatJHWcDuYKqVWIleme+++uee7Vn0I3qaf1ZLHAtkoOPftCwPLbG73uKkhh5qKi4yEaBUMAfgtnEE3TumXq8KOoS4Av9C2B0ddvvzAgH1SeMZ9ieHmZNB2+SRHpeO8G+UdxAyLnIbW7rV72OqhZO9FwVk6bZTMaBXVIvI9a8Y+CPi7VFH9WFih/NFaY6XTIvkf5sKbV25YQ9AOCMzgrbxwY+9sQKBgQDYaYaP72BEaNG4Enz228Fx+YpbEs/1L+1+HBKLDSVkCvqmvoS45wSmT1VmMrdDZXbc7woaCxer6MhxE2AGs0cD95s8V9IXFEmECOBRrKY+rCJep3jVJIdJOfsoprrPjYgaE90Tbmffvw3Fga3PZHnoM17dJKehd5mqLCoGJSLKOQKBgQDCu9qYeTT6WgmHht4Ypj9uTSvUsHrMcVUHcCtxgsg3LxHgbyxcWjke8ADjjcJvnyjb7/pwzguC6te5POyuOyIO3w/8dhl8QGK5PCzkw4rcqOmW1HK3dUCUJO3qIFdbkc8X/gJQJ9KDDfoHKOjQIki67fphUiNAOdtbDaEonOX2UwKBgEZrB/Mb9BoudVdNBMaauTZp+YAq/eoNX1zyq4H9lBYakHbjdXJpEZVAKUyo4gMXJ/c5/PJ+e4RfqaFJqaxkd44t6qBW/zCtVEKXVM6evDWWc1STb/kC+tZz/Gq83fqdVhUOM5iYC0q98zA6QyFB030gAhU5USZ0MVczKbV4LfrZAoGBALTiYi73h6p1MBzfvjYPVyRSMsCiHa8CJwV9wBz0ap437tcW7ZHrjNub/HdjGpUstnt18qAOBMta8X9zhDZjX0OJGARef1XXSNzfdKQar0ZA8JnWRaj8FTyHAShVWlAIpOGYZPWnx/dMaE92RKvw7LYWkFkOPwhNteBiTKy48TNZAoGAfLv7FSkRNMqMthjTaBF2J4hjjDdISypc9QgB8pPkdwnxzdQamrsA2kFIt0kuJv4LJ6kxbRoc8l481bTa9HO0KHahtgkOxahqCEMWYqt/Drxegv8vksZpXIEuBhd+dhG1ahkslhiVsig73jytxtRYcUgj1EM9kHHnDedm8WaRsN4=",
-  "version_name": "0.2.17-alpha.0",
+  "version_name": "0.2.18-alpha.0",
   "background": {
     "type": "module",
     "service_worker": "background.js"
